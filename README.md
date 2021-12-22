@@ -3,7 +3,7 @@
   <h1><code>Game of Life Using Rust and Web Assembly</code></h1>
 
 
-  <sub>Built with 🦀 by <a href="">Ryan Flynn</a></sub>
+  <sub>Built with 🦀 by <a href="https://github.com/ryanflynndev">Ryan Flynn</a></sub>
 </div>
 
 ![Game of Life Screenshot](assets/images/game-of-life.png)
@@ -20,7 +20,7 @@ This is the game of life built using Rust, Web Assembly and Vanilla JavaScript.
 wasm-pack build
 ```
 
-### Run the server
+### 🏃 Run the server
 
 You can run the server by navigating into the www directory and running the command:
 
